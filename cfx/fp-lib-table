@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cfxnvme)(type KiCad)(uri ${KIPRJMOD}/../cfxm2.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,7 @@
+fp-info-cache
+*.sch-bak
+*.kicad_pcb-bak
+*-cache.lib
+drill
+drill.zip
+
